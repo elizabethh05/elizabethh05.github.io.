@@ -1,0 +1,2 @@
+# elizabethh05.github.io.
+Hello! This is a website created surrounding the issue of climate change and the threats currently facing our environment as a result of human activity. It's meant to be a resource and to help spread awareness. But also, this website is a beginner coding project that I completed with a partner for for a summer coding program in 2022. We used HTML, CSS, and JavaScript to create a functional and aesthetically pleasing website. Read more on our About page! :)
